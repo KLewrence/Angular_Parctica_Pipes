@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  nombre:string = "Brenda"
+  nombre:string = "Nardos"
   arreglo:number[] = [0,1,2,3,4,5,6,7,8,9,10]
   PI:number = Math.PI;
   a:number = 0.234;
@@ -27,7 +27,7 @@ export class AppComponent {
 
   date = new Date();
 
-  nombreCom = "breNda ruiz acOSta";
+  nombreCom = "mirNa LOuvre giLLes";
 
   video = "mOeSfOJrUIk";
 
